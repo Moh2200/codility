@@ -3,6 +3,7 @@ package binarygap;
 class Solution {
     public static void main(String[] args) {
         System.out.println(solution(9));
+  // just fst
 
     }
 
@@ -17,7 +18,7 @@ class Solution {
 
         while( N !=0 ){
 
-            if(counting == false){    // for the first "1"
+            if(!counting){    // for the first "1" or if(counting == false){
                 if( (N&1) == 1){      // note: cannot use n&1 withoug "()"
                     counting = true;  // start to count
                 }
