@@ -31,7 +31,7 @@
  */
 
 //SCORE: 100/100
-package caterpillar;
+package company.caterpillar;
 
 public class CountDistinctSlices {
 	

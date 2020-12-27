@@ -37,7 +37,7 @@
 */
 
 //SCORE: 100/100 (both solutions, caterpillar and binary search)
-package caterpillar;
+package company.caterpillar;
 
 import java.util.Arrays;
 

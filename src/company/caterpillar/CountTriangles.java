@@ -24,7 +24,7 @@
  */
 
 //SCORE: 100/100
-package caterpillar;
+package company.caterpillar;
 
 import java.util.Arrays;
 

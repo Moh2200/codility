@@ -30,7 +30,7 @@
  */
 
 //SCORE: 100/100 (both solutions)
-package caterpillar;
+package company.caterpillar;
 
 import java.util.Arrays;
 import java.util.stream.IntStream;

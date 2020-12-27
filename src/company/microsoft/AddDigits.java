@@ -9,7 +9,7 @@ Could you do it without any loop/recursion in O(1) runtime?
 *  */
 
 
-package microsoft;
+package company.microsoft;
 
 
 public class AddDigits {
@@ -19,7 +19,7 @@ public class AddDigits {
     }
 
     public static int addDigits(int num) {
-        while (num >= 10) {
+        while (num > 10) {
             int temp = 0;
             while (num > 0) {
                 temp = num % 10; // addition of digits
