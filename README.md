@@ -2,7 +2,8 @@ Java Codility Solutions
 =======================
 
 Codility lessons solved in Java:
-
+- Bitwise Algorithm
+	- BinaryGap
 - Time Complexity
 	- TapeEquilibrium
 	- FrogJmp
