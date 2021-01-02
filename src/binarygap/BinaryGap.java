@@ -3,7 +3,7 @@ package binarygap;
 class Solution {
     public static void main(String[] args) {
         System.out.println(solution(9));
-  // just fst
+        // just fst
 
     }
 
