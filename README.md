@@ -60,3 +60,4 @@ Codility lessons solved in Java:
 - Greedy algorithms
 	- TieRopes
 
+# codility
